@@ -1,0 +1,38 @@
+ const dummyData = [
+                    {
+                        id_transaction: 'SO-20220614-1655166214311',
+                        payment_status: 'SUCCESS',
+                        total_amount: 17000,
+                        processing_fee: 1000,
+                    },
+                    {
+                        id_transaction: 'SO-20220614-1655193277201',
+                        payment_status: 'SUCCESS',
+                        total_amount: 17000,
+                        processing_fee: 1000,
+                    },
+                    {
+                        id_transaction: 'SO-20220614-1655192974998',
+                        payment_status: 'SUCCESS',
+                        total_amount: 23000,
+                        processing_fee: 1000,
+                    },
+                    {
+                        id_transaction: 'SO-20220613-1655106206927',
+                        payment_status: 'SUCCESS',
+                        total_amount: 17000,
+                        processing_fee: 1000,
+                    },
+                    {
+                        id_transaction: 'SO-20220613-1655106033671',
+                        payment_status: 'FAILED',
+                        total_amount: 17000,
+                        processing_fee: 1000,
+                    },
+                    {
+                        id_transaction: 'SO-20220614-1655191720874',
+                        payment_status: 'SUCCESS',
+                        total_amount: 23000,
+                        processing_fee: 23000,
+                    },
+                ];
